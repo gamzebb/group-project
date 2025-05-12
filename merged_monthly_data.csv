@@ -1,4 +1,4 @@
-﻿Date,ftse_250_price,ftse_250_total_return,base_rate,CPI,ftse_350,ftse_350_total_return,price_02,price_02_total_return,confidence_score,price_05,price_05_total_return,price_10,price_10_total_return,unemployment_rate,wage_growth,GDP
+﻿Date,ftse_250_price,ftse_250_total_return,base_rate,CPI,ftse_350_Price,"ftse_350_Total Return (Gross, Unhedged)",price_02_Price,"price_02_Total Return (Gross, Unhedged)",confidence_score,price_05_Price,"price_05_Total Return (Gross, Unhedged)",price_10_Price,"price_10_Total Return (Gross, Unhedged)",unemployment_rate,wage_growth_rate,gdp_GDP
 1989-12-01,2661.76000976562,803.789978027344,14.713333333333335,,,,,,,,,,,,,0.5
 1990-01-01,2591.1298828125,783.25,14.63,5.7,1165.82995605469,725.320007324219,,,-19.0,,,,,6.9,,0.5
 1990-02-01,2463.8798828125,746.010009765625,14.546666666666667,5.9,1121.46997070312,700.580017089844,,,-24.0,,,,,6.9,,0.5
