@@ -11,8 +11,15 @@ This project analyzes the impact of Bank of England speeches on economic indicat
 - `Further Analysis (Copies)/`: Regression models with adding (replacing lagged version dependent variable with) sentiment score as independent variable, scatter plots sentiment scores vs. dependant variable for each timeframes
 
 ## How to Reproduce
-1. Install dependencies from `requirements.txt`
-2. Run `notebook_final.ipynb` in Jupyter
+## Setup and Reproducibility
+To reproduce this project and run the notebooks locally, follow the steps below:
+### 1. Clone the Repository
+```bash
+git clone https://github.com/gamzebb/group-project.git
+cd group-project
+### 2. Install All Dependencies
+pip install -r requirements.txt
+### 2. Run (ex.) `BankSpeeches_StarterCode-10.ipynb` in Jupyter
 
 ## Authors
 - Gamze Bozkurt Omar
