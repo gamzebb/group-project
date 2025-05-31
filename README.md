@@ -8,7 +8,7 @@ This project analyzes the impact of Bank of England speeches on economic indicat
 ## Contents
 # Notebooks and Files
 - `BankSpeeches_StarterCode-10.ipynb`: Data cleaning and validation, Sentiment Analysis, Bank Rate Changes, Merging (economical indicators with finbert sentiment), correlation matrices
-- `Correlation Matrices and Timeframes with Key Event/`:
+- `Correlation Matrices and Timeframes with Key Event/`: The Correlation Matrices of both sentiment scores (without time lag) and economical indicators  with (1,2, and 3 months timelags) and sentiment score analysis with key events for different timeframes
 - `Speech Analysis/`: Top Positive/Negative Speech Analysis, Top Author and Word Analysis
 - `report_publication_dates/`: Cleaned MPR and FSR Publication Dates (.csv) files and timeframe graph including both
 - `cleaned_economic_data/`: Cleaned economical indicators (.csv)
